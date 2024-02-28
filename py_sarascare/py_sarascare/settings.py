@@ -131,7 +131,7 @@ MEDIA_ROOT = os.path.join(BASE_DIR, 'media')
 
 DEFAULT_AUTO_FIELD = "django.db.models.BigAutoField"
 
-ALLOWED_HOSTS = ['sarascarepy.azurewebsites.net']  # Set this to your actual domain in production
+ALLOWED_HOSTS = ['https://sarascarepy.azurewebsites.net/']  # Set this to your actual domain in production
 
 SECURE_SSL_REDIRECT = True
 SESSION_COOKIE_SECURE = True
