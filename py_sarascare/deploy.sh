@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Navigate to the project directory
-cd $DEPLOYMENT_TARGET
+cd /Users/sachinwedasinghe/Documents/GitHub/SarasCare-Website/py_sarascare
 
 # Create a virtual environment (if needed)
 python -m venv env
