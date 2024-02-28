@@ -66,4 +66,4 @@ jobs:
         with:
           app-name: 'sarascarepy'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_E152A111D1C2440995E399B2F8A2C4BA }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_A7A239844B0245CDBF771C16D5636F28 }}
