@@ -23,7 +23,7 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SECRET_KEY = "django-insecure-)yx#p758rd$v2f2y&saon1jzui!ojox@b=ad#(d$r$8pw!c5sw"
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
 ALLOWED_HOSTS = ['sarascarepy.azurewebsites.net']  # Set this to your actual domain in production
 
