@@ -705,8 +705,8 @@ h2.section-title-black {
     margin-bottom: 0;
 }
 .who-are-we-img-area {
-	background: #f6f6f6 url("img/bkgtop1.png") no-repeat scroll center center / contain  !important;
-	height: 222px;
+    background: #f6f6f6 url('img/bkgtop1.png') no-repeat scroll center center / contain !important;
+    height: 222px;
 }
 /*======================
 8. Cause-list-area

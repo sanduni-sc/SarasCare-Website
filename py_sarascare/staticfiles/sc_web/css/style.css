@@ -4084,6 +4084,10 @@ ul.pro-cat-children {
   position: static;
 }
 
+.image-size {
+    width: 300px;
+    height: 100px;
+}
 
 
 
